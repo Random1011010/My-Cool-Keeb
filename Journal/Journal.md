@@ -1,4 +1,4 @@
-# This is my journal!! (total hours worked = 1 😎🔥)
+# This is my journal!! (total hours worked = 6 😎🔥)
 
 ### I will be posting the journal decriptions, images of my work, and the hour(s) spent per journal log 
 ### (Date will be mm/dd/yyyy)
@@ -30,3 +30,7 @@ Some problems I faced were the footprints just NOT lining up properly and having
 I plan to next finish up the PCB and get started with the Case! I have a bunch of cool ideas for details I want to add on the keyboard, hopefully I don't forget them.💀😅
 
 <img width="915" height="579" alt="Screenshot 2026-07-18 at 4 03 59 AM" src="https://github.com/user-attachments/assets/430a52c9-8aac-4213-8e32-d8cd4dc285bd" />
+
+## Journal log 4 (+1h) (07/18/2026)
+I finally finished routing all the wires on the PCB, I am finally ready to export the PCB and start with the case!
+<img width="1710" height="1112" alt="Screenshot 2026-07-18 at 1 34 32 PM" src="https://github.com/user-attachments/assets/0f7a631f-f26d-41a4-ba4f-a5019a503238" />

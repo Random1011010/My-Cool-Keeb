@@ -34,3 +34,8 @@ I plan to next finish up the PCB and get started with the Case! I have a bunch o
 ## Journal log 4 (+1h) (07/18/2026)
 I finally finished routing all the wires on the PCB, I am finally ready to export the PCB and start with the case!
 <img width="1710" height="1112" alt="Screenshot 2026-07-18 at 1 34 32 PM" src="https://github.com/user-attachments/assets/0f7a631f-f26d-41a4-ba4f-a5019a503238" />
+
+## Journal log 5 (+2h) (07/18/2026)
+It tool so long to make the keyboard plate and I am still not done😭🙏, it turns out that I have to now find a 5u stabelizer for the 3d model and also make the cut out on the spacebar section of the plate.
+<img width="874" height="746" alt="Screenshot 2026-07-18 at 5 14 19 PM" src="https://github.com/user-attachments/assets/59e89bdd-28f0-49fd-a1b0-f28230857455" />
+

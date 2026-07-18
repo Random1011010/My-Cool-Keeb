@@ -1,4 +1,4 @@
-# This is my journal!! (total hours worked = 6 😎🔥)
+# This is my journal!! (total hours worked = 8😎🔥)
 
 ### I will be posting the journal decriptions, images of my work, and the hour(s) spent per journal log 
 ### (Date will be mm/dd/yyyy)

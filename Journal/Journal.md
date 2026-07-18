@@ -21,3 +21,12 @@ Some problems I can imagine I am going to face is going to be adding the switch 
 Somethings I plan to tackle next, I plan to try and add the 3d model to the schematic like I said before, but also I want to have the spacing for all the switches on the pcb be proper for the pieces that are more then 1u
 
 <img width="1323" height="542" alt="Screenshot 2026-07-17 at 11 31 54 PM" src="https://github.com/user-attachments/assets/b4e95b72-a0b7-4fb2-8528-855bfd7f33c6" />
+
+## Journal log 3 (+2h) (07/18/2026)
+I took way to long to get the footprints correct so that they would have the correct u size, but I got that done, plus most of major wiring done one the PCB
+
+Some problems I faced were the footprints just NOT lining up properly and having to shimmy like 100 times till it works, another problem I am going to imagine its going to be hard is again the 3d models of the switches, and a new problem I can think of is finding a 5u space bar, and a 2.25 shift key (Like the caps)
+
+I plan to next finish up the PCB and get started with the Case! I have a bunch of cool ideas for details I want to add on the keyboard, hopefully I don't forget them.💀😅
+
+<img width="915" height="579" alt="Screenshot 2026-07-18 at 4 03 59 AM" src="https://github.com/user-attachments/assets/430a52c9-8aac-4213-8e32-d8cd4dc285bd" />

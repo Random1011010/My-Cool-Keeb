@@ -1,4 +1,4 @@
-# This is my journal!! (total hours worked = 8😎🔥)
+# This is my journal!! (total hours worked = 9😎🔥)
 
 ### I will be posting the journal decriptions, images of my work, and the hour(s) spent per journal log 
 ### (Date will be mm/dd/yyyy)
@@ -38,4 +38,10 @@ I finally finished routing all the wires on the PCB, I am finally ready to expor
 ## Journal log 5 (+2h) (07/18/2026)
 It tool so long to make the keyboard plate and I am still not done😭🙏, it turns out that I have to now find a 5u stabelizer for the 3d model and also make the cut out on the spacebar section of the plate.
 <img width="874" height="746" alt="Screenshot 2026-07-18 at 5 14 19 PM" src="https://github.com/user-attachments/assets/59e89bdd-28f0-49fd-a1b0-f28230857455" />
+
+## Journal log 6 (+1h) (07/19/2026)
+I am really struggling to make the case, But I think I am on the right track for the case, I feel like the top cover will kinda help everything click (or so I hope)
+
+<img width="944" height="384" alt="Screenshot 2026-07-19 at 1 33 11 AM" src="https://github.com/user-attachments/assets/dab2fd81-0e5d-47ad-8a6f-e800e98579ed" />
+
 

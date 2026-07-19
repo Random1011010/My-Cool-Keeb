@@ -1,4 +1,4 @@
-# This is my journal!! (total hours worked = 9😎🔥)
+# This is my journal!! (total hours worked = 11😎🔥)
 
 ### I will be posting the journal decriptions, images of my work, and the hour(s) spent per journal log 
 ### (Date will be mm/dd/yyyy)
@@ -40,8 +40,12 @@ It tool so long to make the keyboard plate and I am still not done😭🙏, it t
 <img width="874" height="746" alt="Screenshot 2026-07-18 at 5 14 19 PM" src="https://github.com/user-attachments/assets/59e89bdd-28f0-49fd-a1b0-f28230857455" />
 
 ## Journal log 6 (+1h) (07/19/2026)
-I am really struggling to make the case, But I think I am on the right track for the case, I feel like the top cover will kinda help everything click (or so I hope)
+I am really struggling to make the case, but I think I am on the right track for the case, I feel like the top cover will kinda help everything click (or so I hope)
 
 <img width="944" height="384" alt="Screenshot 2026-07-19 at 1 33 11 AM" src="https://github.com/user-attachments/assets/dab2fd81-0e5d-47ad-8a6f-e800e98579ed" />
 
+## Journal log 7 (+2h) (07/19/2026)
+It is taking so long to make the case, but I am almost done the case, now the main problem is doing to be making sure the mounting holes are correct, putting the correct colors on the keycaps, putting my own details on the case, making & putting the encoder caps, making a 5u spacebar model, and just putting all the finalizing touches.
+
+<img width="919" height="368" alt="Screenshot 2026-07-19 at 6 49 01 PM" src="https://github.com/user-attachments/assets/d9865d60-5346-4714-938a-55ac4af78c79" />
 

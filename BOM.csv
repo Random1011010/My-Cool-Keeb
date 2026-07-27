@@ -1,1 +1,10 @@
-
+Item,Description,Quantity,Unit Price (CAD),Total Price (CAD),Purchase Link
+Orpheus Pico Microcontroller,Hack Club RP2040 Board (Orpheus Pico),1,0.00,0.00,https://github.com/hackclub/orpheus-pico
+Mechanical Switches,Outemu Silent White Linear Switches (90 pcs),90,0.16,14.41,https://www.aliexpress.com/item/1005002378701948.html
+EC11 Rotary Encoders,EC11 20mm D-Shaft Rotary Encoder,2,1.37,2.74,https://www.amazon.ca/dp/B07DM2YMT4
+1N4148 Diodes,1N4148 Switching Diodes (100-pack for 83 matrix/encoder switches),100,0.03,3.24,https://www.amazon.ca/dp/B071KS8LBH
+PCB Mount Stabilizers,2x Stabilizers (1x Spacebar 6.25u / 1x Left Shift 2u),2,2.50,5.00,https://www.amazon.ca/dp/B08MW3G11C
+M3 Fasteners,M3 x 20mm Machine Screws (Min. 6 pcs),1,4.00,4.00,https://www.amazon.ca/dp/B08212C78S
+Custom PCB Fabrication,JLCPCB 2-Layer Custom PCB (5 pcs minimum),1,6.85,6.85,https://jlcpcb.com/
+Keycap Set,81-key Compatible Keycap Set (Selection TBD),1,20.50,20.50,https://www.amazon.ca/
+TOTAL,,,,,56.74

@@ -1,4 +1,4 @@
-# This is my journal!! (total hours worked = 11😎🔥)
+# This is my journal!! (total hours worked = 15😎🔥)
 
 ### I will be posting the journal decriptions, images of my work, and the hour(s) spent per journal log 
 ### (Date will be mm/dd/yyyy)
@@ -45,7 +45,11 @@ I am really struggling to make the case, but I think I am on the right track for
 <img width="944" height="384" alt="Screenshot 2026-07-19 at 1 33 11 AM" src="https://github.com/user-attachments/assets/dab2fd81-0e5d-47ad-8a6f-e800e98579ed" />
 
 ## Journal log 7 (+2h) (07/19/2026)
-It is taking so long to make the case, but I am almost done the case, now the main problem is doing to be making sure the mounting holes are correct, putting the correct colors on the keycaps, putting my own details on the case, making & putting the encoder caps, making a 5u spacebar model, and just putting all the finalizing touches.
+It is taking so long to make the case, but I am almost done the case, now the main problem is doing to be making sure the mounting holes are correct, putting the correct colors on the keycaps, putting my own details on the case, making & putting the encoder caps, making a 5u spacebar model, and just putting all the finalizing touches.<img width="919" height="368" alt="Screenshot 2026-07-19 at 6 49 01 PM" src="https://github.com/user-attachments/assets/07b17b7e-e360-45ed-a000-8241a6ceadb2" />
 
-<img width="919" height="368" alt="Screenshot 2026-07-19 at 6 49 01 PM" src="https://github.com/user-attachments/assets/d9865d60-5346-4714-938a-55ac4af78c79" />
+
+## Journal log 8 (+4h) (07/26/2026)
+This was the longest I worked on the keyboard and even though it doesn't look like much of a differnce in the photos, I would say that today was when i really finished off the keyboard because now all I have left is the actually firmware, and i hope that will be less difficult.
+Why it took so long. It took so long for just a bit of change is the fact that I had to make my own spacebar, had to fix any clearence issues, gave the whole keyboard color, make the port area look better, added my own custom designs into the top plate of the keyboard to make it my own, added heatset inserts, added the screws, and fixed any smaller things I might have missed in this up
+<img width="1078" height="420" alt="Screenshot 2026-07-27 at 2 04 12 AM" src="https://github.com/user-attachments/assets/a164d4e1-68e3-457a-9517-7ddee7a89755" />
 

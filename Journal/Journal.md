@@ -1,4 +1,4 @@
-# This is my journal!! (total hours worked = 15😎🔥)
+# This is my journal!! (total hours worked = 17😎🔥)
 
 ### I will be posting the journal decriptions, images of my work, and the hour(s) spent per journal log 
 ### (Date will be mm/dd/yyyy)
@@ -52,4 +52,10 @@ It is taking so long to make the case, but I am almost done the case, now the ma
 This was the longest I worked on the keyboard and even though it doesn't look like much of a differnce in the photos, I would say that today was when i really finished off the keyboard because now all I have left is the actually firmware, and i hope that will be less difficult.
 Why it took so long. It took so long for just a bit of change is the fact that I had to make my own spacebar, had to fix any clearence issues, gave the whole keyboard color, make the port area look better, added my own custom designs into the top plate of the keyboard to make it my own, added heatset inserts, added the screws, and fixed any smaller things I might have missed in this up
 <img width="1078" height="420" alt="Screenshot 2026-07-27 at 2 04 12 AM" src="https://github.com/user-attachments/assets/a164d4e1-68e3-457a-9517-7ddee7a89755" />
+
+## Journal log 9 (+2h) (07/27/2026)
+It surprisingly didn't take that long to make the firmware to fit my hardware with the encoders, I just need to figure out how I should put the firmware files into this repo because for the firmware you had to make the code in another repo, but other then that I just need to add all the files that I have into their respective folders in the repo and make sure everything is correct before sending it in
+
+<img width="1374" height="885" alt="Screenshot 2026-07-27 at 3 06 22 PM" src="https://github.com/user-attachments/assets/7af8f70c-337f-4ddb-a171-b9d9be81877f" />
+
 

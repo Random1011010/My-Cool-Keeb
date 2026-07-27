@@ -1,4 +1,4 @@
-Item,Description,Quantity,Unit Price (CAD),Total Price (CAD),Purchase Link
+Item,Description,Quantity,Unit Price (CAD),Total Price (CAD)(Without Tax),Purchase Link
 Orpheus Pico Microcontroller,Hack Club RP2040 Board (Orpheus Pico),1,0.00,0.00,https://github.com/hackclub/orpheus-pico
 Mechanical Switches,Outemu Silent White Linear Switches (90 pcs),90,0.16,14.41,https://www.aliexpress.com/item/1005002378701948.html
 EC11 Rotary Encoders,EC11 20mm D-Shaft Rotary Encoder,2,1.37,2.74,https://www.amazon.ca/dp/B07DM2YMT4

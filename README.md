@@ -3,7 +3,22 @@
 
 An 81-key dual-layer custom mechanical keyboard powered by an RP2040 microcontroller and written in Rust using the RMK framework.
 
-<img width="907" height="407" alt="Screenshot 2026-07-27 at 3 20 32 PM" src="https://github.com/user-attachments/assets/6d164fc4-4fd2-4e00-a6ca-6a284adbcded" />
+<img width="878" height="403" alt="Screenshot 2026-07-28 at 3 13 28 PM" src="https://github.com/user-attachments/assets/95b141b5-8424-4be6-bc75-8c00a310a39d" />
+
+## 📋 Bill of Materials (BOM)
+
+| Part Description | Qty | Link | Unit Cost (USD) | Total Cost (USD) |
+| :--- | :---: | :--- | :---: | :---: |
+| Orpheus Pico Microcontroller | 1 | [Hack Club Orpheus Pico](https://github.com/hackclub/orpheus-pico) | $0.00 | $0.00 |
+| Outemu Silent White Linear Switches (90 pcs) | 90 | [AliExpress](https://www.aliexpress.com/item/1005002378701948.html) | $0.27 | $23.90 |
+| 132-Key White Blank MOA Profile PBT Keycaps | 1 | [AliExpress](https://www.aliexpress.com/) | $20.96 | $20.96 |
+| 1N4148 Diodes (100-pack for switch matrix & encoders) | 100 | [AliExpress](https://www.aliexpress.com/item/1005002339916163.html) | $0.016 | $1.64 |
+| EC11 20mm Rotary Encoders (2-pack) | 1 | [AliExpress](https://www.aliexpress.com/) | $3.50 | $3.50 |
+| M3 x 20mm Stainless Steel Screws (100-pack) | 100 | [AliExpress](https://www.aliexpress.com/) | $0.052 | $5.22 |
+| HANGLIFE M3 Brass Heat-Set Inserts (100-pack) | 100 | [Amazon Canada](https://www.amazon.ca/) | $0.057 | $5.66 |
+| Chosfox V3 Plate Mount Stabilizers Kit | 1 | [AliExpress](https://www.aliexpress.com/item/1005007299976098.html) | $8.57 | $8.57 |
+| Custom PCB Fabrication & Delivery (5 pcs total) | 1 | [JLCPCB](https://jlcpcb.com/) | $58.85 | $58.85 |
+| **Total** | | | | **~$128.30 USD** |
 
 
 ---
@@ -36,19 +51,3 @@ Caps     A       S       D       F       G       H       J       K       L      
 Shift    _       Z       X       C       V       B       N       M       ,       .       /       Shift   Up     _      _
 MO(1)    Ctrl    Opt     Cmd     _       _       _       Space   _       Cmd     Opt     Macro4  Left    Down   Right  _
 
-
-
-## 📋 Bill of Materials (BOM)
-
-| Part Description | Qty | Link | Unit Cost (USD) | Total Cost (USD) |
-| :--- | :---: | :--- | :---: | :---: |
-| Orpheus Pico Microcontroller | 1 | [Hack Club Orpheus Pico](https://github.com/hackclub/orpheus-pico) | $0.00 | $0.00 |
-| Outemu Silent White Linear Switches (90 pcs) | 90 | [AliExpress](https://www.aliexpress.com/item/1005002378701948.html) | $0.27 | $23.90 |
-| 132-Key White Blank MOA Profile PBT Keycaps | 1 | [AliExpress](https://www.aliexpress.com/) | $20.96 | $20.96 |
-| 1N4148 Diodes (100-pack for switch matrix & encoders) | 100 | [AliExpress](https://www.aliexpress.com/item/1005002339916163.html) | $0.016 | $1.64 |
-| EC11 20mm Rotary Encoders (2-pack) | 1 | [AliExpress](https://www.aliexpress.com/) | $3.50 | $3.50 |
-| M3 x 20mm Stainless Steel Screws (100-pack) | 100 | [AliExpress](https://www.aliexpress.com/) | $0.052 | $5.22 |
-| HANGLIFE M3 Brass Heat-Set Inserts (100-pack) | 100 | [Amazon Canada](https://www.amazon.ca/) | $0.057 | $5.66 |
-| Chosfox V3 Plate Mount Stabilizers Kit | 1 | [AliExpress](https://www.aliexpress.com/item/1005007299976098.html) | $8.57 | $8.57 |
-| Custom PCB Fabrication & Delivery (5 pcs total) | 1 | [JLCPCB](https://jlcpcb.com/) | $58.85 | $58.85 |
-| **Total** | | | | **~$128.30 USD** |

@@ -35,3 +35,20 @@ Tab      Q       W       E       R       T       Y       U       I       O      
 Caps     A       S       D       F       G       H       J       K       L       ;       '       Enter   _      _      _
 Shift    _       Z       X       C       V       B       N       M       ,       .       /       Shift   Up     _      _
 MO(1)    Ctrl    Opt     Cmd     _       _       _       Space   _       Cmd     Opt     Macro4  Left    Down   Right  _
+
+
+
+## 📋 Bill of Materials (BOM)
+
+| Part Description | Qty | Link | Unit Cost (USD) | Total Cost (USD) |
+| :--- | :---: | :--- | :---: | :---: |
+| Orpheus Pico Microcontroller | 1 | [Hack Club Orpheus Pico](https://github.com/hackclub/orpheus-pico) | $0.00 | $0.00 |
+| Outemu Silent White Linear Switches (90 pcs) | 90 | [AliExpress](https://www.aliexpress.com/item/1005002378701948.html) | $0.27 | $23.90 |
+| 132-Key White Blank MOA Profile PBT Keycaps | 1 | [AliExpress](https://www.aliexpress.com/) | $20.96 | $20.96 |
+| 1N4148 Diodes (100-pack for switch matrix & encoders) | 100 | [AliExpress](https://www.aliexpress.com/item/1005002339916163.html) | $0.016 | $1.64 |
+| EC11 20mm Rotary Encoders (2-pack) | 1 | [AliExpress](https://www.aliexpress.com/) | $3.50 | $3.50 |
+| M3 x 20mm Stainless Steel Screws (100-pack) | 100 | [AliExpress](https://www.aliexpress.com/) | $0.052 | $5.22 |
+| HANGLIFE M3 Brass Heat-Set Inserts (100-pack) | 100 | [Amazon Canada](https://www.amazon.ca/) | $0.057 | $5.66 |
+| Chosfox V3 Plate Mount Stabilizers Kit | 1 | [AliExpress](https://www.aliexpress.com/item/1005007299976098.html) | $8.57 | $8.57 |
+| Custom PCB Fabrication & Delivery (5 pcs total) | 1 | [JLCPCB](https://jlcpcb.com/) | $58.85 | $58.85 |
+| **Total** | | | | **~$128.30 USD** |
